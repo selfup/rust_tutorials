@@ -1,4 +1,4 @@
-# Rust Turorials
+# Rust Tutorials
 
 ### Youtube Links:
 
